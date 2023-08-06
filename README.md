@@ -15,7 +15,7 @@ If you're new to Flutter, don't worry! We've got you covered. To get started, fo
 2. Clone the Repository: Clone this repository to your local machine using Git.
 
 ```
-git clone https://github.com/your-username/flutter-widgets-for-beginners.git
+git clone https://github.com/sharjeelmazhar/flutter-widgets-for-beginners.git
 ```
 
 3. Explore the Widgets: Every day, a new widget will be added to the repository. Start with Day 1 and progress through the daily folders to learn about different widgets.
