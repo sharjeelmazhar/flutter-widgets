@@ -6,6 +6,26 @@ Welcome to Flutter Widgets for Beginners, a one-stop resource for new Flutter de
 
 In Flutter, everything is a widget! Widgets are the basic building blocks of a Flutter app's user interface. They define the structure, layout, and behavior of the UI components, allowing you to create visually appealing and interactive apps. 💡
 
+## Getting Started
+
+If you're new to Flutter, don't worry! We've got you covered. To get started, follow these simple steps:
+
+1. Install Flutter: If you haven't already installed Flutter on your machine, refer to the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) for detailed instructions.
+
+2. Clone the Repository: Clone this repository to your local machine using Git.
+
+```
+git clone https://github.com/your-username/flutter-widgets-for-beginners.git
+```
+
+3. Explore the Widgets: Every day, a new widget will be added to the repository. Start with Day 1 and progress through the daily folders to learn about different widgets.
+
+4. Study the Code: Each daily folder contains a Flutter project that demonstrates the widget of the day. Dive into the code, read the comments, and understand how the widget is implemented.
+
+5. Experiment: Don't be afraid to experiment with the code! Modify the widgets, try out different properties, and see how the changes affect the UI.
+
+6. Join the Community: Learning together is more fun! Feel free to ask questions, share your progress, and connect with other beginners in the Flutter community.
+
 ## Repository Structure 📁
 
 The repository is organized as follows:
