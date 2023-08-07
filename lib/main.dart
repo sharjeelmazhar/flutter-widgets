@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets/widgets/expanded.dart';
+import 'package:flutter_widgets_for_beginners/widgets/expanded.dart';
 
 void main() {
   runApp(const MyApp());
