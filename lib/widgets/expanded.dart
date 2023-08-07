@@ -6,7 +6,6 @@ class Expandedd extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // backgroundColor: Colors.deepPurple.shade300,
       appBar: AppBar(
         title: const Center(child: Text('Expanded')),
       ),
@@ -32,7 +31,7 @@ class Expandedd extends StatelessWidget {
                     color: Colors.amberAccent,
                     child: const Text(
                       'Column children 2, Row C1 with expanded',
-                      style: TextStyle(fontSize: 25),
+                      style: TextStyle(fontSize: 15),
                     ),
                   ),
                 ),
@@ -43,7 +42,7 @@ class Expandedd extends StatelessWidget {
                     child: const Center(
                       child: Text(
                         'Column children 2, Row C2 with expanded',
-                        style: TextStyle(fontSize: 25),
+                        style: TextStyle(fontSize: 15),
                       ),
                     ),
                     // * to here, and the above and the below container do not
@@ -57,7 +56,7 @@ class Expandedd extends StatelessWidget {
                     color: Colors.blueAccent,
                     child: const Text(
                       'Column children 2, Row C3 with expanded',
-                      style: TextStyle(fontSize: 25),
+                      style: TextStyle(fontSize: 15),
                     ),
                   ),
                 )

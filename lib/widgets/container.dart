@@ -6,12 +6,10 @@ class Containerr extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
       appBar: AppBar(
         title: const Center(
           child: Text('Container'),
         ),
-        backgroundColor: Colors.deepPurple,
       ),
       body: Center(
         child: Container(

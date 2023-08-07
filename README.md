@@ -108,7 +108,7 @@ Happy coding! 👩‍💻👨‍💻
 ## Screenshots
 
 ### Container
-<img src="lib/widgets_screenshots/Container.jpg" width=300 height=600>
+<img src="lib/widgets_screenshots/Container.png" width=300 height=600>
 
 ### Expanded
-<img src="lib/widgets_screenshots/Expanded.jpg" width=300 height=600>
+<img src="lib/widgets_screenshots/Expanded.png" width=300 height=600>
