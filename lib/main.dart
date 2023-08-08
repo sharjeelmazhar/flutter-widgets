@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets_for_beginners/widgets/container.dart';
+import 'package:flutter_widgets_for_beginners/widgets/column.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Containerr(),
+      home: Columnn(),
     );
   }
 }
