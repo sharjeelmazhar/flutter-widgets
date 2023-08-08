@@ -110,5 +110,8 @@ Happy coding! 👩‍💻👨‍💻
 ### Container
 <img src="lib/widgets_screenshots/Container.png" width=300 height=600>
 
+### Column
+<img src="lib/widgets_screenshots/Column.png" width=300 height=600>
+
 ### Expanded
 <img src="lib/widgets_screenshots/Expanded.png" width=300 height=600>
