@@ -93,6 +93,11 @@ Alternatively, you can use the "play" button in your code editor or IDE to launc
 
 6. Experiment with the code! Modify the widget's properties, try out different configurations, and observe how it affects the UI. 💡
 
+# Covered Widgets
+1. [Container](#Container)
+2. [Column](#Column)
+3. [Expanded](#Expanded)
+
 ## Contribution 👥
 
 We welcome contributions from Flutter enthusiasts and developers of all levels. If you have an idea for a new widget, an improvement, or a bug fix, please feel free to submit a pull request. Together, we can make this repository an even more valuable resource for beginners. 🤝
@@ -107,11 +112,11 @@ Happy coding! 👩‍💻👨‍💻
 
 ## Screenshots
 
-### Container
+### Container <a name="Container"></a>
 <img src="lib/widgets_screenshots/Container.png" width=300 height=600>
 
-### Column
+### Column <a name="Column"></a>
 <img src="lib/widgets_screenshots/Column.png" width=300 height=600>
 
-### Expanded
+### Expanded <a name="Expanded"></a>
 <img src="lib/widgets_screenshots/Expanded.png" width=300 height=600>
